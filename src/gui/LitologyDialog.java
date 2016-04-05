@@ -9,7 +9,7 @@ public class LitologyDialog implements ActionListener {
 	
 	private JDialog jdial;
 	
-	
+	public LitologyDialog(){
 		
 	}
 	
